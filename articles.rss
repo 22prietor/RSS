@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+	<title>RSS NJ Weather Data</title>
+	<link>https://511nj.org/RSS511Service/RSS511Service.svc/rest/rss/RSSActiveWeather</link>
+	<description>Current NJ Weather Information</description>
+	<language>en</language>
+	<copyright>511NJ</copyright>
+	<pubdate>Thu, 11 Nov 2021 18:08:29 +0000</pubdate>
+<item>
+	<title>RSSFeed</title>
+	<description>This is a description</description>
+	<link>https://511nj.org/RSS511Service/RSS511Service.svc/rest/rss/RSSActiveWeather</link>
+	<author>nonsense@somewhere.de (Lars Vogel)</author>
+	<guid>https://www.vogella.com/tutorials/RSSFeed/article.html</guid>
+
+</item>
+
+</channel>
+</rss>
